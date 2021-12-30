@@ -1,0 +1,10 @@
+{
+  "name": "heliumapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@helium/http": "^3.52.0"
+  },
+  "type": "module"
+}
